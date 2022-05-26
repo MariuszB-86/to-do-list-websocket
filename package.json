@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "socket.io": "2.2.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
